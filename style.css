@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Freehand&family=Inter:wght@300&family=Lobster&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 30px;
+    padding: 8px;
+    color: #E5E5E5;
+}
+
+/*Navigation bar*/
+header ul {
+    list-style-type: none;
+    margin-top: 100px;
+    margin-left: 140px;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+header li {
+    float: left;
+}
+
+header li a {
+    display: block;
+    color: rgb(4, 4, 4);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 21px;
+    letter-spacing: -3%;
+
+}
+
+header li img {
+    width: 67.5px;
+    height: 23px;
+    margin-top: 8px;
+}
+
+/*After Navigation Bar*/
+.headcontent h1 {
+    color: black;
+    display: inline-block;
+    font-size: 60px;
+    text-align: left;
+    margin-top: 200px;
+    margin-left: 129px;
+    float: left;
+    font-family: sans-serif;
+}
+
+.headcontent h2 {
+    text-align: right;
+    display: inline-block;
+    color: #606060;
+    margin-top: -200px;
+    margin-left: 636px;
+    font-size: 32px;
+    margin-right: 40px;
+    float: right;
+}
+
+.headcontent .sym {
+    font-size: 25px;
+    color: #181717;
+    margin-top: 450px;
+}
+
+/*First BodyPart Style*/
+.first {
+    margin-top: 657px;
+    margin-left: 160px;
+
+}
+
+.first .pro1 {
+    display: inline;
+    float: left;
+    color: black;
+
+}
+
+.first .pro1 .p1 {
+    font-size: 22px;
+    color: #181717;
+    font-family: 'Inter', sans-serif;
+}
+
+.first .pro1 .p2 {
+    font-size: 19px;
+    color: #181717;
+    font-family: 'Inter', sans-serif;
+}
+
+.first .pro1 .p3 {
+    font-size: 16px;
+    color: #606060;
+    font-family: 'Inter', sans-serif;
+}
+
+.first .pro1 .p4 {
+    color: #181717;
+    font-size: 22px;
+    text-decoration: underline;
+    font-family: 'Inter', sans-serif;
+}
+
+.first .img1 img {
+    display: inline;
+    float: right;
+    width: 490px;
+    height: 320px;
+    margin-right: 80px;
+    border: 1px solid black;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    ;
+}
+
+/*Second BodyPart Style*/
+.second {
+    margin-top: 157px;
+    margin-left: 160px;
+}
+
+.second .pro1 {
+    display: inline;
+    float: left;
+    color: black;
+
+}
+
+.second .pro1 .p1 {
+    font-size: 22px;
+    color: #181717;
+    font-family: 'Inter', sans-serif;
+}
+
+.second .pro1 .p2 {
+    font-size: 19px;
+    color: #181717;
+    font-family: 'Inter', sans-serif;
+}
+
+.second .pro1 .p3 {
+    font-size: 16px;
+    color: #606060;
+    font-family: 'Inter', sans-serif;
+}
+
+.second .pro1 .p4 {
+    color: #181717;
+    font-size: 22px;
+    text-decoration: underline;
+    font-family: 'Inter', sans-serif;
+}
+
+.second .img1 img {
+    display: inline;
+    float: right;
+    width: 490px;
+    height: 320px;
+    margin-right: 80px;
+    border: 1px solid black;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    ;
+}
+
+/*Third BodyPart Style*/
+.third {
+    margin-top: 157px;
+    margin-left: 160px;
+}
+
+.third .pro1 {
+    display: inline;
+    float: left;
+    color: black;
+
+}
+
+.third .pro1 .p1 {
+    font-size: 22px;
+    color: #181717;
+    font-family: 'Inter', sans-serif;
+
+}
+
+.third .pro1 .p2 {
+    font-size: 19px;
+    color: #181717;
+    font-family: 'Inter', sans-serif;
+
+}
+
+.third .pro1 .p3 {
+    font-size: 16px;
+    color: #606060;
+
+}
+
+.third .pro1 .p4 {
+    color: #606060;
+    font-size: 22px;
+    text-decoration: underline;
+    font-family: 'Inter', sans-serif;
+
+}
+
+.third .img1 img {
+    display: inline;
+    float: right;
+    width: 490px;
+    height: 300px;
+    margin-right: 80px;
+    border: 1px solid black;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    ;
+}
+
+/*Footer style*/
+footer ul {
+    list-style-type: none;
+    margin-top: 50px;
+    margin-left: 140px;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+footer li {
+    float: left;
+}
+
+footer li a {
+    display: block;
+    color: rgb(4, 4, 4);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 21px;
+    letter-spacing: -3%;
+
+}
+
+footer .foot {
+    color: #2429AF;
+    font-size: 21px;
+    font-family: sans-serif;
+}
